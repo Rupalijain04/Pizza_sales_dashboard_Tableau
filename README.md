@@ -44,4 +44,6 @@
 - **Learning:** Developed a **systematic cleaning workflow** in SQL + Excel to streamline analysis and dashboard creation.
 
 ## Dashboard Preview  
-![Pizza Sales Dashboard]()
+![Pizza Sales Dashboard](PizzaDashboardppt.png)
+![Pizza Sales Dashboard](PizzaDashboardppt1.png)
+
