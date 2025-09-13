@@ -42,3 +42,6 @@
 ## **9. Obstacles & Learnings**
 - **Obstacle:** Handling inconsistent pizza names and missing values across multiple files.  
 - **Learning:** Developed a **systematic cleaning workflow** in SQL + Excel to streamline analysis and dashboard creation.
+
+## Dashboard Preview  
+![Pizza Sales Dashboard]()
